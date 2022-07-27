@@ -1,0 +1,6 @@
+.itemContainer{
+    min-width: 240px;
+    height: 370px;
+    background-color: rgba(21,21,21,0.5);
+    border:solid 1px rgba(3,3,3,0.9)
+}
