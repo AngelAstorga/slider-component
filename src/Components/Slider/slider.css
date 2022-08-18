@@ -1,7 +1,7 @@
 .sliderContainer{
     width: 100vw;
     height: 430px;
-    background-color: rgba(21,21,21,0.2);
+    background-color: #ff1f5a;
     display: flex;
     align-items: center;
     overflow: hidden;
@@ -9,6 +9,7 @@
 .slider__wrapper{
     width: 300vw;
     display: flex;
+    transition: 1s;
 }
 .slider__group{
     width: 100vw;

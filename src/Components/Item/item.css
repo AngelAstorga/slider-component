@@ -1,9 +1,9 @@
 .itemContainer{
     width: 240px;
     height: 370px;
-    background-color: rgba(21,21,21,0.5);
-    border:solid 1px rgba(3,3,3,0.9);
+    background-color: #1e2a78;
     overflow: hidden;
+    box-shadow: 1px 1px 10px #1e2a78;
 }
 .itemHead{
     height: 150px;
@@ -27,13 +27,15 @@
     height: 35px;
     position: absolute;
     bottom: 0px;
-    background-color: rgba(21,21,21,0.5);
-    color: white;
+    background-color: #ffd615;
+    color: rgb(255, 255, 230);
     padding-left: 10px;
 }
 .itemBody__description{
     margin: 0px;
     padding: 15px;
     font-size: 14px;
+    color: #c1d4ff;
+    line-height: 20px;
 }
 
