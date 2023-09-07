@@ -1,6 +1,6 @@
 # Free Slider Component with Reactjs
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This slider is free to use, you can improve it and send us a pull request
 
 ## Available Scripts
 
